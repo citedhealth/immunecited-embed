@@ -104,12 +104,6 @@ That's it. The widget fetches evidence data from the ImmuneCited API and renders
 <script src="https://cdn.jsdelivr.net/npm/immunecited-embed@1/dist/embed.min.js"></script>
 ```
 
-### R2 CDN (immunecited.com hosted)
-
-```html
-<script src="https://cdn.immunecited.com/embed.min.js"></script>
-```
-
 ### npm (for bundlers)
 
 ```bash
