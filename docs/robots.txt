@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+# ImmuneCited Embed Widget
+# Main site: https://immunecited.com
+# Widget docs: https://widget.immunecited.com
+# npm: https://www.npmjs.com/package/immunecited-embed
